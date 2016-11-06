@@ -3,7 +3,7 @@
 Freebie Tracker Network is currently a work-in-progress. It began as as basic Rails app partner project with @francisrocco during our Flatiron Web Development Immersive class. Now that the class is over, I've been building it out independently.
 
 
-*Current bugs: Inconsistencies in Capybara and Selenium tests.
+*Bug log: Inconsistencies in Capybara and Selenium tests. (Fixed as of 11/6)
 
 Log-in credentials:
 
